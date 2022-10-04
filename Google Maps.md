@@ -16,9 +16,9 @@
 
 
 ## Feasibility Constraints:
-* 1. Data Set: Building a navigation application is a challenging problem. Not because of the kind of algorithms we use but more because of the kind of requirements it is associated with. If we try to calculate the number of roads in the world, there are roughly 100 million. Now, if we try to model it as a graph, we will have hundreds of millions of vertices and edges. This is a very massive dataset. This kind of information is non-existent.*
+* 1. Data Set: Building a navigation application is a challenging problem. Not because of the kind of algorithms we use but more because of the kind of requirements it is associated with. If we try to calculate the number of roads in the world, there are roughly 100 million. Now, if we try to model it as a graph, we will have hundreds of millions of vertices and edges. This is a very massive dataset. This kind of information is non-existent.
 
-* 2. Quantifying unpredictable attributes: It is tough to quantify the attributes that impact the ETA. With traffic, weather, road quality, road closure, and accidents, it is hard to develop a mathematical formula for ETA.*
+* 2. Quantifying unpredictable attributes: It is tough to quantify the attributes that impact the ETA. With traffic, weather, road quality, road closure, and accidents, it is hard to develop a mathematical formula for ETA.
 
 
 ## Data Requirements: 
